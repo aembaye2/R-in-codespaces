@@ -18,4 +18,21 @@ sudo useradd -m -s /bin/bash aembaye2
 
 su - aembaye2
 
- git config --global --add safe.directory /workspaces/R-in-codespaces
+
+
+# -------------------------------------------------------------------------------------------------------------------------------------
+# Troubleshooting Common Errors
+
+## 1. User Switching Issues
+If `su - aembaye2` fails, set `"remoteUser": "aembaye2"` in `.devcontainer/devcontainer.json` and rebuild the container.
+
+## 2. Git Dubious Ownership Error
+Run: `git config --global --add safe.directory /workspaces/R-in-codespaces`
+
+## 3. GPG Signing Error on Commit
+Run: `git config --global commit.gpgSign false`
+
+## 4. Push Fails Due to Git LFS Hook
+If you see LFS warnings and push fails, remove the hook: `rm .git/hooks/pre-push`
+
+
