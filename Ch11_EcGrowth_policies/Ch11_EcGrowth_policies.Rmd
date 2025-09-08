@@ -4,9 +4,10 @@ author: "Abel Embaye"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 output:
   beamer_presentation:
-    keep_tex: yes
+    keep_tex: true
     includes:
-      in_header: ../../../../../_Fns/packages4looks4rmd_beamer.tex
+      in_header: ../packages4looks4rmd_beamer.tex
+  ioslides_presentation: default
 institute: |
   | Department of Economics
   |
@@ -15,22 +16,6 @@ institute: |
 slide_level: 3
 fontsize: 12pt
 ---
-
-## Macroeconomics
-
-Macroeconomics
-
-Ninth Edition
-
-![](imgs3/img_slide01a.png){height=99%}
-
-Chapter 11
-
-Long-Run Economic Growth: Sources and Policies
-
-![](imgs3/img_slide01b.png){height=99%}
-
-Copyright © 2025, 2021, & 2018 Pearson Education, Inc. All Rights Reserved
 
 ## Chapter Outline
 
@@ -408,7 +393,7 @@ Apply the Concept: Will China’s Standard of Living Exceed That of the United S
 
 If Chinese and U.S. growth rates continue, China’s standard of living would exceed that of the United States in 2042. + Will this really happen? Several factors suggest that it will not: + Much of Chinese growth is due to capital investment, which will have diminishing returns.
 
-![](imgs3/img_slide50a.png){height=99%}
+<!-- ![](imgs3/img_slide50a.png){height=99%} -->
 
 ## Apply the Concept: Will China’s Standard of Living Exceed That of the United States? (2 of 2)
 
@@ -452,15 +437,8 @@ Is Economic Growth Good or Bad?
 
 A central assumption of this chapter is that economic growth is beneficial for citizens. + This seems relatively clear for low-income countries, but some people maintain that further economic growth may not be desirable in high-income countries.
 
-Arguments against growth might include: + Negative effects on the environment + Depletion of natural resources + Diminishment of distinctive cultures
+Arguments against growth might include: + Negative effects on the environment + Depletion of natural resources + Diminishing of distinctive cultures
 
 Since many of these arguments are normative, economic analysis can contribute to the debate but cannot settle the issue.
 
-## Copyright
-
-Copyright
-
-![](imgs3/img_slide56a.png){height=99%}
-
-This work is protected by United States copyright laws and is provided solely for the use of instructors in teaching their courses and assessing student learning. Dissemination or sale of any part of this work (including on the World Wide Web) will destroy the integrity of the work and is not permitted. The work and materials from it should never be made available to students except by instructors using the accompanying text in their classes. All recipients of this work are expected to abide by these restrictions and to honor the intended pedagogical purposes and the needs of other instructors who rely on these materials.
 

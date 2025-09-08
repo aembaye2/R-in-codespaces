@@ -6,7 +6,7 @@ output:
   beamer_presentation:
     keep_tex: yes
     includes:
-      in_header: ../../../../../_Fns/packages4looks4rmd_beamer.tex
+      in_header: ../packages4looks4rmd_beamer.tex
 institute: |
   | Department of Economics
   |
@@ -15,22 +15,6 @@ institute: |
 slide_level: 3
 fontsize: 12pt
 ---
-
-## Macroeconomics
-
-Macroeconomics
-
-Ninth Edition
-
-![](imgs3/img_slide01a.png){height=99%}
-
-Chapter 13
-
-Aggregate Demand and Aggregate Supply Analysis
-
-![](imgs3/img_slide01b.png){height=99%}
-
-Copyright © 2025, 2021, & 2018 Pearson Education, Inc. All Rights Reserved
 
 ## Chapter Outline
 

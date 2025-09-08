@@ -18,8 +18,6 @@ fontsize: 12pt
 
 ## Chapter Outline
 
-Chapter Outline
-
 10.1 Long-Run Economic Growth 
 
 10.2 Saving, Investment, and the Financial System 
@@ -42,21 +40,32 @@ Real GDP per capita has risen more than nine-fold since 1900-- the average Ameri
 
 ## Application: Economic Prosperity and Health
 
+
 + Economic prosperity and health go hand in hand: richer nations can devote more resources to improving the health of their citizens, and healthier citizens are more productive. 
 
 + Another good measure of our economic prosperity is the amount of time we can spend on leisure-- as our lifespan grows, we can spend more time on leisure; and also, as we grow more productive, we can devote less time to work, and hence more to leisure. 
 
 ## Calculating Growth Rates
 
-Calculating Growth Rates
 
-The growth rate of an economic variable like real GDP or real GDP per capita is equal to the percentage change from one year to the next. + In 2021, Real GDP was $21.4 trillion + In 2022, Real GDP was $21.8 trillion
+The growth rate of an economic variable like real GDP or real GDP per capita is equal to the percentage change from one year to the next. 
+
++ In 2021, Real GDP was \$21.4 trillion 
+
++ In 2022, Real GDP was \$21.8 trillion
+
+$$\frac{\$21.8 trillion−\$21.4 trillion)}{(\$21.4 trillion)}$$
+
+$$\frac{1}{2}$$
+$$Y= \beta x +2$$
 
 ## Growth Rates over a Few Years
 
-Growth Rates over a Few Years
+Over periods of a few years, we can average the growth rates to find the approximate annual rate of growth. 
 
-Over periods of a few years, we can average the growth rates to find the approximate annual rate of growth. + In 2020, real GDP growth was -2.2% + In 2021, real GDP growth was 5.8% + In 2022, real GDP growth was 1.9% + So, the average annual growth rate over this three-year period was;
++ In 2020, real GDP growth was -2.2% + In 2021, real GDP growth was 5.8% 
+
++ In 2022, real GDP growth was 1.9% + So, the average annual growth rate over this three-year period was;
 
 ## Growth Rates over Longer Periods
 
@@ -399,12 +408,4 @@ Explaining the Great Moderation
 Several factors help to explain the Great Moderation, and their continuation suggests the U.S. economy will return to stability: + Active federal government stabilization policies + Many, though not all, economists believe that active government policies to lengthen expansions and minimize the effects of recessions have had the desired effect. The debate over the role of government in this way became particularly intense during the recession of 2007–2009.
 
 Increased stability of the financial system + The severity of the Great Depression of the 1930s was in part caused by instability in the financial system; similar instability exacerbated the recession of 2007–2009. Returning to macroeconomic stability will require a stable financial system.
-
-## Copyright
-
-Copyright
-
-![](imgs3/img_slide48a.png){height=99%}
-
-This work is protected by United States copyright laws and is provided solely for the use of instructors in teaching their courses and assessing student learning. Dissemination or sale of any part of this work (including on the World Wide Web) will destroy the integrity of the work and is not permitted. The work and materials from it should never be made available to students except by instructors using the accompanying text in their classes. All recipients of this work are expected to abide by these restrictions and to honor the intended pedagogical purposes and the needs of other instructors who rely on these materials.
 

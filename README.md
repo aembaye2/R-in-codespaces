@@ -35,6 +35,8 @@ Run: `git config --global commit.gpgSign false`
  4. Push Fails Due to Git LFS Hook
 If you see LFS warnings and push fails, remove the hook: `rm .git/hooks/pre-push`
 
+# how to save your work and push to GitHub
+
 
 git add .
 git commit -m "your commit message"
